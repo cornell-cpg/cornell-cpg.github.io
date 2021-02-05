@@ -1,12 +1,12 @@
 ---
 title: "Welcome"
-layout: single
+layout: home
 author_profile: false
 classes: wide
 header:
-  overlay_filter: rgba(179, 27, 27, 0.5)
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/ithaca.jpg
-  excerpt: "Interested in joining the Cornell CPG? Join our mailing list for more information!"
+  excerpt: "Interested in joining CPG? Join our mailing list for more information!"
   actions:
   - label: "Google Form for Sign-Up"
     url: "https://forms.gle/zyt3hF4PDb7DWfyw5"
