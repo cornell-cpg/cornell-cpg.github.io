@@ -2,13 +2,12 @@
 title: "Welcome"
 layout: splash
 author_profile: false
-excerpt: "Interested in joining CPG? Join our mailing list for more information!"
+excerpt: "Interested in joining CPG? Join our mailing list!"
 header:
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/ithaca.png
-  tagline: "Welcome"
   actions:
-  - label: "Google Form for Sign-Up"
+  - label: "Google Form"
     url: "https://forms.gle/zyt3hF4PDb7DWfyw5"
   caption: "Photo credit: [**Wikimedia**](https://wikimedia.org)"
 ---
