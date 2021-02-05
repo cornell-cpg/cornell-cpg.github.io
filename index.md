@@ -1,7 +1,7 @@
 ---
 title: "Cornell Computational Policy Group"
-layout: splash
-author_profile: true
+layout: single
+author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
