@@ -4,9 +4,9 @@ layout: single
 author_profile: false
 classes: wide
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
+  overlay_filter: rgba(179, 27, 27, 0.5)
   overlay_image: /assets/images/ithaca.jpg
+  excerpt: "Interested in joining the Cornell CPG? Join our mailing list for more information!"
   actions:
   - label: "Google Form for Sign-Up"
     url: "https://forms.gle/zyt3hF4PDb7DWfyw5"
